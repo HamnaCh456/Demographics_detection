@@ -1,0 +1,4 @@
+
+ultralytics>=8.0.0      # YOLOv8 for person detection
+opencv-python>=4.8.0    # OpenCV for video/image processing AND face detection
+numpy>=1.24.0           # Numerical operations
